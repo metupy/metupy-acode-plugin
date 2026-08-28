@@ -1,0 +1,39 @@
+{
+  "id": "metupy.pym",
+  "name": "Metupy IntelliSense",
+  "version": "1.0.0",
+  "description": "Official IntelliSense & Syntax Highlighting for Metupy (.pym) file format",
+  "author": {
+    "name": "PalembangPy Community",
+    "url": "https://github.com/palembangpy"
+  },
+  "homepage": "https://github.com/metupy/metupy-acode-plugin",
+  "icon": "icon.png",
+  "category": "language",
+  "price": 0,
+  "keywords": [
+    "palembangpy",
+    "metupy",
+    "pym",
+    "syntax-highlighting",
+    "snippets",
+    "intellisense"
+  ],
+  "main": "main.js",
+  "settings": [
+    {
+      "key": "pym.indentation",
+      "type": "boolean",
+      "value": false,
+      "title": "Enable Auto-indentation",
+      "description": "Auto-indent new lines (recommended: false for Metupy)"
+    },
+    {
+      "key": "pym.autoCloseTags",
+      "type": "boolean",
+      "value": true,
+      "title": "Auto-close Tags",
+      "description": "Automatically close Metupy tags"
+    }
+  ]
+}
