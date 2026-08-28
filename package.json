@@ -1,0 +1,27 @@
+{
+  "name": "metupy-acode-plugin",
+  "version": "1.0.0",
+  "description": "Metupy Plugin for Acode Editor - Syntax Highlighting & Snippets for .pym files",
+  "main": "main.js",
+  "author": {
+    "name": "PalembangPy Community",
+    "url": "https://github.com/palembangpy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metupy/metupy-acode-plugin"
+  },
+  "homepage": "https://github.com/metupy/metupy-acode-plugin#readme",
+  "bugs": {
+    "url": "https://github.com/metupy/metupy-acode-plugin/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "acode",
+    "plugin",
+    "metupy",
+    "pym",
+    "syntax-highlighting",
+    "snippets"
+  ]
+}
